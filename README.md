@@ -1,5 +1,5 @@
 # Anytime Classification
-Code for paper [Towards Anytime Classification in Early-Exit Architectures by Enforcing Conditional Monotonicity]().
+Code for paper [Towards Anytime Classification in Early-Exit Architectures by Enforcing Conditional Monotonicity](https://arxiv.org/abs/2306.02652).
 
 Code for pretrained models is taken from the following repos:
 - [MSDNet](https://arxiv.org/abs/1703.09844):  https://github.com/kalviny/MSDNet-PyTorch
